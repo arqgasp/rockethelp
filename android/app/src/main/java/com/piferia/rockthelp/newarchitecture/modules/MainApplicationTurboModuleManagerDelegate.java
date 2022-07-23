@@ -1,4 +1,4 @@
-package com.rockthelp.newarchitecture.modules;
+package com.piferia.rockthelp.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

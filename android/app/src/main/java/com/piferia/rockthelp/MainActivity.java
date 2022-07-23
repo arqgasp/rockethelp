@@ -1,4 +1,4 @@
-package com.rockthelp;
+package com.piferia.rockthelp;
 
 import android.os.Build;
 import android.os.Bundle;
